@@ -34,9 +34,9 @@ Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Eve
 
 To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/cvsqdlytcbpc/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
 
-### Mentors and other Volunteers: Backgroud check authorization and expertise questionnaire
+### Mentors and other Volunteers: Background check authorization and expertise questionnaire
 
-* First time Voluneeters or aspiring Mentors must [complete this application and background check authorization](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/). Thank you. This form also lets you tell us about your expertise and interests.
+* First time Volunteers or aspiring Mentors must [complete this application and background check authorization](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/). Thank you. This form also lets you tell us about your expertise and interests.
 * **Looking to lead a new track? We'd love the help!** See the section [Mentor recruitment](#mentor-recruitment) below and let us know if you'd like to help!
 
 #### How to RSVP
