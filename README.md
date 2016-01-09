@@ -1,20 +1,20 @@
-# Details for May 30th CoderDojo Ponce Springs!
+# Details for Febfurary 27th CoderDojo Ponce Springs!
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
-We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
+We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing projects of their own or mentor-led series tracks. 
 
 ## Event summary
 
-**1:00 - 2:30 PM: Beginners Session** -- Students, before you come, please start learning at home with [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). We will use these resources for beginners in the session. If you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
+**1:00 - 2:15 PM: Beginners Session** -- Students who have never programmed before: please start learning at home with free online tools. Two popular beginner tools are  [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). If you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
 * Description: For beginners, no matter what level you are at, during this session you can ask questions or continue what you started and get tips and help from Mentors and other Students!
-* Led by: Fin Huq and John K.
 
-**2:45 - 4:15 PM: [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)**
-* Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
-* Covering: Since it's been a while, we will see where students are wanting help.
-* Optional materials: You can learn a lot more at your own pace by getting the book about Qunitus: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
-* Led by: Mentor [Josh Gough](https://github.com/jogoshugh)
+**2:45 - 4:00 PM: Intermediate and Advanced Sessions** -- Students who have their own projects are welcome to come and seek assistance from other Students or from CoderDojo Mentors.
+* **Book Club: Professional HTML5 Mobile Game Development**
+  * We are recruiting Students to participate in this programming book club that will meet during this session throughout the year.
+  * Club Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
+  * Required Book: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
+  * Led by: Mentor [Josh Gough](https://github.com/jogoshugh)
 
 ## Quick links and RSVP info for Parents, Mentors and other Volunteers
 
