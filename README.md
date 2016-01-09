@@ -1,4 +1,4 @@
-# Details for Febfurary 27th CoderDojo Ponce Springs!
+# Details for February 27th CoderDojo Ponce Springs!
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
@@ -29,7 +29,7 @@ Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Eve
 
 #### How to RSVP
 
-To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs May 30th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/221996559/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
+To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs Feb 27th RSVP page](http://meetu.ps/2RMBMl)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
 
 ### Mentors and other Volunteers: Background check authorization and expertise questionnaire
 
@@ -38,7 +38,7 @@ To help ensure privacy for our members, **parents** please sign up for your kids
 
 #### How to RSVP
 
-Sign up at the [CoderDojo Ponce Springs May 30th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/221996559/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
+Sign up at the [CoderDojo Ponce Springs Feb 27th RSVP page](http://meetu.ps/2RMBMl)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
 
 ## Sneak preview
 
