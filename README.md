@@ -6,8 +6,13 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 
 ## Event summary
 
-**1:00 - 3:00 PM:** -- Students who have never programmed before: please start learning at home with free online tools. Two popular beginner tools are  [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). If you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
-* Description: For beginners, no matter what level you are at, during this session you can ask questions or continue what you started and get tips and help from Mentors and other Students!
+**1:00 - 3:00 PM:** 
+
+Our events last from 1pm to 3pm. They are attend by mentors, students, and parents. **Parents**, please do not forget to bring a laptop for your student.
+
+### Beginner students
+
+For beginners, no matter what level you are at, during this session you can ask questions or continue what you started and get tips and help from Mentors and other Students! If you've never coded before, you should start learning at home with free online tools. Two popular beginner tools are  [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). If you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
 
 ### Intermediate and Advanced students 
 
