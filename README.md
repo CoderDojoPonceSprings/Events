@@ -18,11 +18,11 @@ For beginners, no matter what level you are at, during this session you can ask 
 
 Students who have their own projects are welcome to come and seek assistance from other Students or from CoderDojo Mentors.
 
-* **Book Club: Professional HTML5 Mobile Game Development**
-  * We are recruiting Students to participate in this programming book club that will meet during this session throughout the year.
-  * Club Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
-  * Required Book: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
-  * Led by: Mentor [Josh Gough](https://github.com/jogoshugh)
+### Book Club: Professional HTML5 Mobile Game Development**
+* We are recruiting Students to participate in this programming book club that will meet during this session throughout the year.
+* Club Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
+* Required Book: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
+* Led by: Mentor [Josh Gough](https://github.com/jogoshugh)
 
 ## Quick links and RSVP info for Parents, Mentors and other Volunteers
 
