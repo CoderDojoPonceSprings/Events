@@ -1,4 +1,4 @@
-# Details for August 27th CoderDojo Ponce Springs!
+# Details for February 25th, 2017 CoderDojo Ponce Springs!
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
@@ -6,10 +6,13 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 
 ## Event summary
 
-**1:00 - 2:15 PM: Beginners Session** -- Students who have never programmed before: please start learning at home with free online tools. Two popular beginner tools are  [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). If you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
+**1:00 - 3:00 PM:** -- Students who have never programmed before: please start learning at home with free online tools. Two popular beginner tools are  [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). If you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
 * Description: For beginners, no matter what level you are at, during this session you can ask questions or continue what you started and get tips and help from Mentors and other Students!
 
-**2:45 - 4:00 PM: Intermediate and Advanced Sessions** -- Students who have their own projects are welcome to come and seek assistance from other Students or from CoderDojo Mentors.
+### Intermediate and Advanced students 
+
+Students who have their own projects are welcome to come and seek assistance from other Students or from CoderDojo Mentors.
+
 * **Book Club: Professional HTML5 Mobile Game Development**
   * We are recruiting Students to participate in this programming book club that will meet during this session throughout the year.
   * Club Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
@@ -20,6 +23,8 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 
 ### All: Directions and parking Tips
 
+**Note:** _We have changed locations to 112 Krog Street Suite 17, Atlanta, GA!_ We are in The Stove Works building, directly across from Krog Street Market, on the same side as Krog Bar and Rathbuns.
+
 Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md)!
 
 ### Parents: Homework to do with your kids before coming and what to bring to the event:
@@ -29,7 +34,7 @@ Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Eve
 
 #### How to RSVP
 
-To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs August 27th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/232827439/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
+To help ensure privacy for our members, **parents** please sign up for your kids / students at [our current RSVP page](https://www.meetup.com/CoderDojoPonceSprings/events/235559331/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
 
 ### Mentors and other Volunteers: Background check authorization and expertise questionnaire
 
@@ -38,7 +43,7 @@ To help ensure privacy for our members, **parents** please sign up for your kids
 
 #### How to RSVP
 
-Sign up at the [CoderDojo Ponce Springs August 27th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/232827439/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
+Sign up at [our current RSVP page](https://www.meetup.com/CoderDojoPonceSprings/events/235559331/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
 
 ## Sneak preview
 
