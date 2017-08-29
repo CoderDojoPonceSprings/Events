@@ -1,4 +1,4 @@
-# Details for February 25th, 2017 CoderDojo Ponce Springs!
+# Details for September 23rd 2017 CoderDojo Ponce Springs!
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
@@ -12,17 +12,13 @@ Our events last from 1pm to 3pm. They are attend by mentors, students, and paren
 
 ### Beginner students
 
-For beginners, no matter what level you are at, during this session you can ask questions or continue what you started and get tips and help from Mentors and other Students! If you've never coded before, you should start learning at home with free online tools. Two popular beginner tools are  [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). If you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
+For beginners, no matter what level you are at, during this session you can ask questions or continue what you started and get tips and help from Mentors and other Students! If you've never coded before, you should start learning at home with free online tools. Two popular beginner tools are [Blockly Games](https://blockly-games.appspot.com/) or [Lightbot](http://lightbot.com/). If you have a little bit of experience, but want to learn more, you can try [Khan Academy's great and free courses here](https://www.khanacademy.org/computing/computer-programming). 
+
+And, if you have more time, you can also try out one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
 
 ### Intermediate and Advanced students 
 
 Students who have their own projects are welcome to come and seek assistance from other Students or from CoderDojo Mentors.
-
-### Book Club: Professional HTML5 Mobile Game Development**
-* We are recruiting Students to participate in this programming book club that will meet during this session throughout the year.
-* Club Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
-* Required Book: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
-* Led by: Mentor [Josh Gough](https://github.com/jogoshugh)
 
 ## Quick links and RSVP info for Parents, Mentors and other Volunteers
 
@@ -39,7 +35,7 @@ Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Eve
 
 #### How to RSVP
 
-To help ensure privacy for our members, **parents** please sign up for your kids / students at [our current RSVP page](https://www.meetup.com/CoderDojoPonceSprings/events/235559331/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
+To help ensure privacy for our members, **parents** please sign up for your kids / students at [our current RSVP page](https://www.meetup.com/CoderDojoPonceSprings/events/238665083/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
 
 ### Mentors and other Volunteers: Background check authorization and expertise questionnaire
 
@@ -48,7 +44,7 @@ To help ensure privacy for our members, **parents** please sign up for your kids
 
 #### How to RSVP
 
-Sign up at [our current RSVP page](https://www.meetup.com/CoderDojoPonceSprings/events/235559331/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
+Sign up at [our current RSVP page](https://www.meetup.com/CoderDojoPonceSprings/events/238665083/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
 
 ## Sneak preview
 
